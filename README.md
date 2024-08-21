@@ -18,7 +18,8 @@ Welcome to my corner of GitHub! I’m MD Rehan, a Full Stack Web Developer with 
 - Git, Docker, Jenkins
 - AWS, Firebase, TypeScript
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mdrehan369&theme=dark&background=01011a&hide_border=true&card_width)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mdrehan369&theme=radical&background=01011a&hide_border=true&card_width=495)](https://git.io/streak-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrehan369&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical&card_width=495&card_height=195)
 
 ## 🌟 Current Adventures
 
