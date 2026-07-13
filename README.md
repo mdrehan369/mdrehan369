@@ -1,30 +1,22 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+MD+Rehan+%F0%9F%91%8B;Backend+Engineer+%7C+Node.js+%2F+MongoDB+%2F+Docker;I+ship+APIs+that+don't+fall+over+%F0%9F%9A%80;Currently+exploring+Java+%26+Go;Open+to+full-time+backend+roles+%F0%9F%92%BC" alt="Typing SVG" />
-
+div align="center">
+# MD Rehan
+ 
+### Backend Engineer — Node.js · MongoDB · Docker
+ 
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rehan-169411232/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrehan4650@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mdrehandeveloper.xyz)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest%202025-Supercontributor-FF8AE2?style=for-the-badge&logo=digitalocean&logoColor=white)](https://hacktoberfest.com)
-
+ 
 </div>
-
 ---
-
-### 👨‍💻 About Me
-
-```javascript
-const mdRehan = {
-  role: "Backend Engineer",
-  location: "Kolkata, India",
-  education: "B.Tech in Information Technology (2022 – 2026)",
-  currentFocus: ["Distributed Systems", "Java", "Go"],
-  status: "Ex-ESPO Media · open to full-time backend roles",
-  funFact: "I've shipped 200+ production APIs and I still read the error logs for fun"
-};
-```
+ 
+### 👋 About Me
+ 
+I'm a software developer who enjoys building systems that stay reliable under real load — APIs, caching layers, event-driven pipelines, and real-time infrastructure. Previously a Backend Developer at **ESPO Media**, where I shipped 200+ production REST APIs. Currently completing my B.Tech in Information Technology (2026) and expanding into **Java** and **Go**, while actively looking for full-time backend roles.
+ 
+---
 
 - 🔭 Previously **Backend Developer @ ESPO Media** — designed & shipped 200+ production REST APIs
 - 🌱 Currently deepening my backend fundamentals by rebuilding familiar systems in **Java** and **Go**
@@ -44,7 +36,7 @@ const mdRehan = {
 
 **Backend & Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nextjs,spring,django,fastapi,react" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,spring,django,fastapi,react" />
 
 **Databases**
 <br/>
