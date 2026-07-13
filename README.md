@@ -1,28 +1,23 @@
-div align="center">
+<div align="center">
+
 # MD Rehan
- 
-### Backend Engineer — Node.js · MongoDB · Docker
- 
+
+### Software Engineer — Node.js · MongoDB · Docker · Python
+
 <br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rehan-169411232/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrehan4650@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mdrehandeveloper.xyz)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest%202025-Supercontributor-FF8AE2?style=for-the-badge&logo=digitalocean&logoColor=white)](https://hacktoberfest.com)
- 
+
 </div>
----
- 
-### 👋 About Me
- 
-I'm a software developer who enjoys building systems that stay reliable under real load — APIs, caching layers, event-driven pipelines, and real-time infrastructure. Previously a Backend Developer at **ESPO Media**, where I shipped 200+ production REST APIs. Currently completing my B.Tech in Information Technology (2026) and expanding into **Java** and **Go**, while actively looking for full-time backend roles.
- 
+
 ---
 
-- 🔭 Previously **Backend Developer @ ESPO Media** — designed & shipped 200+ production REST APIs
-- 🌱 Currently deepening my backend fundamentals by rebuilding familiar systems in **Java** and **Go**
-- 🏆 **Hacktoberfest 2025 Supercontributor**
-- 💬 Ask me about API design, event-driven systems, or why your Node.js event loop is blocked
-- ⚡ Fun fact: most of my "fun projects" are just production systems in disguise (proxies, chat apps, judges)
+### 👋 About Me
+
+I'm a backend developer who enjoys building systems that stay reliable under real load — APIs, caching layers, event-driven pipelines, and real-time infrastructure. Previously a Backend Developer at **ESPO Media**, where I shipped 200+ production REST APIs. Currently completing my B.Tech in Information Technology (2026) and expanding into **Java** and **Go**, while actively looking for full-time backend roles.
 
 ---
 
